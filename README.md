@@ -35,7 +35,7 @@ tests/       smoke tests for the framework contracts
 
 Every production survivor feature and its implementation, the parameter-search
 results that selected them, and the ensemble weights. This repo shows *how to build*
-a signal library, not *which signals work*. See [`_MANIFEST.md`](_MANIFEST.md).
+a signal library, not *which signals work*.
 
 ## Quick start
 

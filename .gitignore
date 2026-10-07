@@ -1,18 +1,14 @@
-# --- review-only artifacts: not published ---
+# --- local review notes: not published ---
 _MANIFEST.md
 
-# --- production survivors: never commit ---
-survivors/
-*_survivor.py
-*_production.py
+# --- private or working files: never commit ---
+private/
 param_search/
-*optimization*
 *_params.json
-ensemble_weights.*
-
-# --- private signal lib ---
-/private/
-SignalLib/
+*.xlsx
+*.parquet
+*.pkl
+.env
 
 # --- python ---
 __pycache__/

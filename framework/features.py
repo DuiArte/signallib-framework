@@ -1,7 +1,7 @@
 """features.py — the Feature interface.
 
 A Feature maps market data to a per-asset numeric signal. This module publishes the
-*contract* only; production feature implementations are private (see _MANIFEST.md).
+*contract* only; production feature implementations are private and not in this repository.
 """
 from __future__ import annotations
 from abc import ABC, abstractmethod

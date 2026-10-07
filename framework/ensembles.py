@@ -1,7 +1,7 @@
 """ensembles.py — the Ensemble interface.
 
 An Ensemble combines screens and scores into a final decision. Interface only; the
-production ensemble weights are the edge and stay private (see _MANIFEST.md).
+production ensemble weights are the edge and stay private (not in this repository).
 """
 from __future__ import annotations
 from abc import ABC, abstractmethod
